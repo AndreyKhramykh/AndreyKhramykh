@@ -5,10 +5,10 @@
 <br/>
 
 ### :mailbox_with_mail: Contact me:
-[<img alt="Telegram" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/telegram.svg"/>](https://t.me/Khram1997)  
-[<img alt="Email" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" />](mailto:khramykhandrey@gmail.com)  
-[<img alt="Facebook" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/facebook.svg" />](https://www.facebook.com/andrey.khramykh.1/)  
-[<img alt="LinkedIn" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" />](https://www.linkedin.com/in/andrey-khramykh-367387257/)  
+[<img alt="Telegram" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/telegram.svg"/>](https://t.me/Khram1997)
+[<img alt="Email" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" />](mailto:khramykhandrey@gmail.com)
+[<img alt="Facebook" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/facebook.svg" />](https://www.facebook.com/andrey.khramykh.1/)
+[<img alt="LinkedIn" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" />](https://www.linkedin.com/in/andrey-khramykh-367387257/)
 
 ### :hammer_and_wrench: My technologies and tools:
 <div>
