@@ -1,4 +1,5 @@
-### Hello, my name is Andriy Khramykh!
+# Hello, my name is Andriy Khramykh ✌
+## I'm a junior front-end developer from Kyiv 🌆
 
 <!--
 **AndreyKhramykh/AndreyKhramykh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
