@@ -3,7 +3,7 @@
 ### I'll be glad if you want to get acquainted with my repositories :blush:
 
 ### :mailbox_with_mail: Also you can contact me:
-[<img style="margin-right: 10;" alt="Telegram" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/telegram.svg"/>](https://t.me/Khram1997)
+[<img style="margin-right: 20px;" alt="Telegram" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/telegram.svg"/>](https://t.me/Khram1997)
 [<img style="margin-right: 10;" alt="Email" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" />](mailto:khramykhandrey@gmail.com)
 [<img style="margin-right: 10;" alt="Facebook" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/facebook.svg" />](https://www.facebook.com/andrey.khramykh.1/)
 [<img style="margin-right: 10;" alt="LinkedIn" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" />](https://www.linkedin.com/in/andrey-khramykh-367387257/)
