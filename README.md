@@ -2,7 +2,7 @@
 ## I'm a junior front-end developer from Kyiv :city_sunset:
 ### I'll be glad if you want to get acquainted with my repositories :blush:
 
-
+<br/>
 
 ### :mailbox_with_mail: Also you can contact me:
 [<img alt="Telegram" width="30" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/telegram.svg"/>](https://t.me/Khram1997)
