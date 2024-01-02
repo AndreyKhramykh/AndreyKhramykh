@@ -11,7 +11,7 @@
 [<img alt="LinkedIn" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" />](https://www.linkedin.com/in/andrey-khramykh-367387257/)
 
 ### :hammer_and_wrench: My technologies and tools:
-<div>
+<div style="display: flex; gap: 10;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="Html" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="Css" width="30" height="30"/>
