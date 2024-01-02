@@ -2,7 +2,7 @@
 ## I'm a junior front-end developer from Kyiv :city_sunset:
 ### I'll be glad if you want to get acquainted with my repositories :blush:
 ### :mailbox_with_mail: Also you can contact me:
-<div style='display: flex; gap: 10px;'>
+<div style='text-decoration: none;'>
   <a target=_blanc href='https://t.me/Khram1997'>
     <img alt="Telegram" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/telegram.svg"/>
   </a>
@@ -10,7 +10,7 @@
     <img alt="Email" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" />
   </a>
   <a target=_blanc href='https://www.facebook.com/andrey.khramykh.1/'>
-    <img alt="Facebook" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" />
+    <img alt="Facebook" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/facebook.svg" />
   </a>
   <a target=_blanc href='https://www.linkedin.com/in/andrey-khramykh-367387257/'>
     <img alt="LinkedIn" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" />
