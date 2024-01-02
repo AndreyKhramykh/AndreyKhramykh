@@ -1,8 +1,11 @@
-# Hello, my name is Andriy Khramykh ✌
-## I'm a junior front-end developer from Kyiv 🌆
-### I'll be glad if you want to get acquainted with my repositories 😊
-### Also you can contact me:
-### My technologies and tools:
+# Hello, my name is Andriy Khramykh :v:
+## I'm a junior front-end developer from Kyiv :city_sunset:
+### I'll be glad if you want to get acquainted with my repositories :blush:
+### :mailbox_with_mail: Also you can contact me:
+### :hammer_and_wrench: My technologies and tools:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+</div>
 
 <!--
 **AndreyKhramykh/AndreyKhramykh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
