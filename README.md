@@ -4,16 +4,16 @@
 ### :mailbox_with_mail: Also you can contact me:
 <div>
   <a target=_blanc href='https://t.me/Khram1997'>
-    <img alt="Telegram" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/telegram.svg"/>
+    <img alt="Telegram" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/telegram.svg"/>
   </a>
   <a target=_blanc href='mailto:khramykhandrey@gmail.com'>
-    <img alt="Email" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" />
+    <img alt="Email" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" />
   </a>
   <a target=_blanc href='https://www.facebook.com/andrey.khramykh.1/'>
-    <img alt="Facebook" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" />
+    <img alt="Facebook" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" />
   </a>
   <a target=_blanc href='https://www.linkedin.com/in/andrey-khramykh-367387257/'>
-    <img alt="LinkedIn" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" />
+    <img alt="LinkedIn" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" />
   </a>
 </div>
 
