@@ -16,6 +16,7 @@
     <img alt="LinkedIn" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" />
   </a>
 </div>
+
 ### :hammer_and_wrench: My technologies and tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
